@@ -5,3 +5,4 @@
 "console.log('Work in progress...');"
 "console.log('Repairing Bug');"
 "console.log('Add profile feature');"
+"console.log('Add settings feature');"
